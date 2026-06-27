@@ -1441,7 +1441,7 @@ wheels = [
 ]
 
 [[package]]
-name = "test-remote-mcp-server"
+name = "test-remote-server"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
